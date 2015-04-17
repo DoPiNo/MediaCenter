@@ -45,6 +45,15 @@ RetroPie Setup offers the possibility to install from binaries or build from sou
 
 For more information visit the blog at http://www.petrockblock.com or the repository at https://github.com/petrockblog/RetroPie-Setup. A forum thread about the RetroPie Setup script in the official Raspberry Pi forum can be found at http://www.raspberrypi.org/phpBB3/viewtopic.php?f=35&t=13600.
 
+Download Image
+--------------------
+
+RetroPie Setup offers the possibility to download the image, only need to copy directly in to SD
+```shell
+chmod +x download_image.sh
+sudo ./download_image.sh
+```
+
 Wiki
 ----
 
