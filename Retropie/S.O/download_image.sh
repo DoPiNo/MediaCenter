@@ -1,0 +1,1 @@
+curl -L --get  http://downloads.petrockblock.com/images/retropie-v3.0beta2-rpi2.img.gz | tar -C ./ -xz
