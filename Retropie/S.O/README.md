@@ -53,6 +53,7 @@ RetroPie Setup offers the possibility to download the image, only need to copy d
 chmod +x download_image.sh
 sudo ./download_image.sh
 ```
+*At 17/04/2015 The image is Retropie 3 Beta 2
 
 Wiki
 ----
